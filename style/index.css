@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body{
+    background-size:cover;
+    background-image: url(../img/4ca4aa54b53e12a3a387ee5cd4b5e37c.jpg);
+}
